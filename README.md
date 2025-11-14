@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>皮肤皱纹与无皱纹分类数据集5994张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphvag==">下载</a></td></tr>
+<tr><td>智慧医疗废弃物检测数据集VOC+YOLO格式3809张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpdwZg==">下载</a></td></tr>
 <tr><td>NBI医学影像喉部疾病检测数据集VOC+YOLO格式8571张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWYm51paA==">下载</a></td></tr>
 <tr><td>智慧医疗手术器械针驱动器左右手镊子模拟器检测数据集VOC+YOLO格式505张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpppbA==">下载</a></td></tr>
 <tr><td>智慧医疗牙齿缺失检测数据集VOC+YOLO格式1153张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmphxbA==">下载</a></td></tr>
