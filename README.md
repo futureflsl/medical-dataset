@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗舌象舌苔疾病识别检测数据集VOC+YOLO格式2361张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphxZQ==">下载</a></td></tr>
+<tr><td>智慧医疗舌象舌苔疾病识别分割数据集labelme格式2361张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphwbQ==">下载</a></td></tr>
 <tr><td>皮肤皱纹与无皱纹分类数据集5994张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphvag==">下载</a></td></tr>
 <tr><td>智慧医疗废弃物检测数据集VOC+YOLO格式3809张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpdwZg==">下载</a></td></tr>
 <tr><td>NBI医学影像喉部疾病检测数据集VOC+YOLO格式8571张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWYm51paA==">下载</a></td></tr>
