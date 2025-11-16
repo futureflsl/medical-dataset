@@ -1,6 +1,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>癌症检测血细胞识别检测数据集VOC+YOLO格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaQ==">下载</a></td></tr>
+<tr><td>癌症检测血细胞识别分割数据集labelme格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaA==">下载</a></td></tr>
+<tr><td>超声图像多囊卵巢综合症检测数据集VOC+YOLO格式4527张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paw==">下载</a></td></tr>
+<tr><td>口腔癌病理染色组织切片图片分类数据集11303张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5pag==">下载</a></td></tr>
+<tr><td>超声图像多囊卵巢综合症分类数据集4637张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paQ==">下载</a></td></tr>
+<tr><td>癌症检测血细胞分类数据集499张5类别已划分好训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paA==">下载</a></td></tr>
 <tr><td>智慧医疗舌象舌苔疾病识别检测数据集VOC+YOLO格式2361张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphxZQ==">下载</a></td></tr>
 <tr><td>智慧医疗舌象舌苔疾病识别分割数据集labelme格式2361张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphwbQ==">下载</a></td></tr>
 <tr><td>皮肤皱纹与无皱纹分类数据集5994张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphvag==">下载</a></td></tr>
