@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗脊柱侧弯X射线检测数据集VOC+YOLO格式1736张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk59vZw==">下载</a></td></tr>
 <tr><td>癌症检测血细胞识别检测数据集VOC+YOLO格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaQ==">下载</a></td></tr>
 <tr><td>癌症检测血细胞识别分割数据集labelme格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaA==">下载</a></td></tr>
 <tr><td>超声图像多囊卵巢综合症检测数据集VOC+YOLO格式4527张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paw==">下载</a></td></tr>
