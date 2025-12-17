@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗内窥镜息肉检测数据集VOC+YOLO格式9248张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbQ==">下载</a></td></tr>
+<tr><td>智慧医疗消化道息肉检测数据集VOC+YOLO格式9263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbA==">下载</a></td></tr>
+<tr><td>智慧医疗胃部疾病胃炎出血胃肿瘤检测数据集VOC+YOLO格式199张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsag==">下载</a></td></tr>
 <tr><td>CT图像脑出血诊断检测数据集VOC+YOLO格式3568张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlppraQ==">下载</a></td></tr>
 <tr><td>智慧医疗脊柱侧弯X射线检测数据集VOC+YOLO格式1736张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk59vZw==">下载</a></td></tr>
 <tr><td>癌症检测血细胞识别检测数据集VOC+YOLO格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaQ==">下载</a></td></tr>
