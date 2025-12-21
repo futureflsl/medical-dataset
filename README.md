@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗膝盖骨关节炎严重程度检测数据集VOC+YOLO格式8000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakppvbQ==">下载</a></td></tr>
 <tr><td>智慧医疗内窥镜息肉检测数据集VOC+YOLO格式9248张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbQ==">下载</a></td></tr>
 <tr><td>智慧医疗消化道息肉检测数据集VOC+YOLO格式9263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbA==">下载</a></td></tr>
 <tr><td>智慧医疗胃部疾病胃炎出血胃肿瘤检测数据集VOC+YOLO格式199张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsag==">下载</a></td></tr>
