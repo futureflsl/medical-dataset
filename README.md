@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>人脸皮肤病脓包雀斑皱纹白头黑头检测数据集VOC+YOLO格式4090张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9saA==">下载</a></td></tr>
+<tr><td>智慧医疗人脸皮肤病检测数据集VOC+YOLO格式8093张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9sZA==">下载</a></td></tr>
+<tr><td>人脸皮肤病痤疮毛囊炎丘疹疤痕检测数据集VOC+YOLO格式5454张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9sZQ==">下载</a></td></tr>
 <tr><td>智慧医疗膝盖骨关节炎严重程度检测数据集VOC+YOLO格式8000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakppvbQ==">下载</a></td></tr>
 <tr><td>智慧医疗内窥镜息肉检测数据集VOC+YOLO格式9248张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbQ==">下载</a></td></tr>
 <tr><td>智慧医疗消化道息肉检测数据集VOC+YOLO格式9263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbA==">下载</a></td></tr>
